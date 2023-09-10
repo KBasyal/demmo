@@ -20,3 +20,13 @@ for i in range(5):
 # another eample of range in for loop
 for l in range(15):
     print(l)
+
+# for loop in list of lists
+
+list1=[["kamal","Basyal"],["anita","basyal"],["kabita","basyal"]]
+
+# for items in list1:
+#     print(items)
+
+for items, surname in list1:
+    print("Surname of",items, "is",surname)
