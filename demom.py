@@ -25,6 +25,10 @@ for l in range(15):
 
 list1=[["kamal","Basyal"],["anita","basyal"],["kabita","basyal"]]
 
+#Casting list into dictonary
+dict1= dict(list1)
+print(dict1)
+
 # for items in list1:
 #     print(items)
 
