@@ -13,3 +13,6 @@ Subjects= ["Maths","Science","Social","Account","English"]
 for subject in Subjects:
     print(subject)
 
+# for loop for range
+for i in range(5):
+    print(i)
