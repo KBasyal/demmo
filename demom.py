@@ -16,3 +16,7 @@ for subject in Subjects:
 # for loop for range
 for i in range(5):
     print(i)
+
+# another eample of range in for loop
+for l in range(15):
+    print(l)
