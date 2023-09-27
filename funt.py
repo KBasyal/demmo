@@ -9,6 +9,6 @@ my_function();
 def your_function(yourname):
     print(yourname + "Basyal")
 
-your_function("kamal")
-your_function("anita")
-your_function("kabita")
+your_function("Jack")
+your_function("Jones")
+your_function("Tony")
